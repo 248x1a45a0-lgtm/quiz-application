@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Smart Quiz Application",
+  "description": "Interactive Android Material 3 quiz application featuring 12 categories, live Open Trivia DB API, timer-based challenges, custom quiz creation, score analytics, answer review, and Flutter code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
